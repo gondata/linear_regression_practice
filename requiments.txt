@@ -1,0 +1,4 @@
+yfinance
+matplotlib
+pandas_datareader
+scikit-learn
